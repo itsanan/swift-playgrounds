@@ -65,7 +65,7 @@ let myDetails =  "Hello, my name is \(fullName)"
     that date.
 */
 
-let dateFormatBeforeNamed: (Int, Int, Int, Double) = ( 11, 26, 2019, 33.0 )
+let dateFormatBeforeNamed = ( 11, 26, 2019, 33.0 )
 
 /*
  2. Change the tuple to name the constituent components. Give them names related
@@ -100,7 +100,7 @@ dateFormatAfterNamed.averageTemperature = 9.0
  it.
 */
 
-let coordinates: (Int, Int) = ( 2, 3 )
+let coordinates = ( 2, 3 )
 
 /*
  Challenge 2: Named coordinate
@@ -108,7 +108,7 @@ let coordinates: (Int, Int) = ( 2, 3 )
  Create a constant called namedCoordinate with a row and column component.
 */
 
-let namedCoordinate = (row: 0, column: 0)
+let namedCoordinate = (row: 2, column: 3)
 
 /*
  Challenge 3: Which are valid?
@@ -116,10 +116,11 @@ let namedCoordinate = (row: 0, column: 0)
  Which of the following are valid statements?
 */
 
+let character: Character = "🐶"
 let string: String = "Dog"
 let string1: String = "🐶"
 
-// Type Character can't hold more than 1 character, Emoji used more than one, that's why it returns an error
+// Type Character can't hold more than 1 character, Emoji count as one, that's why it did not returns an error
 
 /*
  Challenge 4. Does it compile?
@@ -186,9 +187,9 @@ let a = 4
 let b: Int32 = 100
 let c: UInt8 = 12
 
-let result = Int(a) + Int(b) - Int(c)
+let result = a + Int(b) - Int(c)
 
-// Convert all the constants to Int so Swift can chill
+// Convert all the constants except 'a' to Int so Swift can chill
 
 /*
  Challenge 10: Different precision phi s
