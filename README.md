@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Swift 5.1 Playgrounds 👋</h1>
+<h1 align="center">Welcome to my Progress Tracker 🏃🏻‍♂️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/ValAddict" target="_blank">
@@ -6,7 +6,8 @@
   </a>
 </p>
 
-> A curated collections of my Swift mini-Exercise and Challenges 🏆
+> Based on @raywenderlich Swift mini-Exercise and Challenges 🏆
+> Progress Tracker for: Swift Apprentice Fifth Edition
 
 ## Prerequisites
 
@@ -16,9 +17,7 @@
 
 ## Usage
 
-```sh
 Open directly in your Xcode Playground
-```
 
 ## Author
 
