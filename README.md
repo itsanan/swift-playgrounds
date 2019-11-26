@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Swift 5.1 Playgrounds 👋</h1>
+<h1 align="center">Welcome to my Progress Tracker 🏃🏻‍♂️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/ValAddict" target="_blank">
@@ -6,19 +6,18 @@
   </a>
 </p>
 
-> A curated collections of my Swift mini-Exercise and Challenges 🏆
+> Based on @raywenderlich Swift mini-Exercise and Challenges, 
+> Progress Tracker for: Swift Apprentice Fifth Edition, focusing on foundation of Apple's modern languange Swift 🐟
 
-## Install
+## Prerequisites
 
-```sh
-Open directly in your Xcode Playground
-```
+1. macOS Catalina 10.15.0
+2. Xcode 11
+3. Swift 5.1
 
 ## Usage
 
-```sh
 Open directly in your Xcode Playground
-```
 
 ## Author
 
@@ -31,6 +30,3 @@ Open directly in your Xcode Playground
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
