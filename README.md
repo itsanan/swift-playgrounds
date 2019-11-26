@@ -7,6 +7,7 @@
 </p>
 
 > Based on @raywenderlich Swift mini-Exercise and Challenges 🏆
+<br/>
 > Progress Tracker for: Swift Apprentice Fifth Edition
 
 ## Prerequisites
