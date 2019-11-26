@@ -6,8 +6,8 @@
   </a>
 </p>
 
-> Based on @raywenderlich Swift mini-Exercise and Challenges,
-> Progress Tracker for: Swift Apprentice Fifth Edition 🐟
+> Based on @raywenderlich Swift mini-Exercise and Challenges, 
+> Progress Tracker for: Swift Apprentice Fifth Edition, focusing on foundation of Apple's modern languange Swift 🐟
 
 ## Prerequisites
 
