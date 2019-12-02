@@ -44,3 +44,27 @@ let authorIsReader = reader == author
  */
 
 let readerBeforeAuthor = reader < author
+
+// Mini-exercises
+
+/*
+    1. Create a constant named myAge and initialize it with your age. Write an if
+    statement to print out Teenager if your age is between 13 and 19, and Not a
+    teenager if your age is not between 13 and 19.
+*/
+
+var isTeenagerString: String
+
+if isTeenager {
+    isTeenagerString = "Teenager"
+} else {
+    isTeenagerString = "Not a Teenager"
+}
+
+/*
+    2. Create a constant named answer and use a ternary condition to set it equal to the
+    result you print out for the same cases in the above exercise. Then print out
+    answer.
+*/
+
+let answer = isTeenager ? "Teenager" : "Not a Teenager"
